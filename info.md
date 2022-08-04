@@ -7,3 +7,5 @@
 > git add – добавить файл или файлы к следующему коммиту
 
 > git commit -m “message” – создание коммита.
+
+> git checkout -b branch_name – создать ветку и перейти в нее
