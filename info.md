@@ -11,3 +11,5 @@
 > git checkout -b branch_name – создать ветку и перейти в нее
 
 >git merge --abort - отменить merge
+
+>git log --graph – вывести коммиты в древовидной форме
