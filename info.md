@@ -9,3 +9,5 @@
 > git commit -m “message” – создание коммита.
 
 > git checkout -b branch_name – создать ветку и перейти в нее
+
+>git merge --abort - отменить merge
